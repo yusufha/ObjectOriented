@@ -20,6 +20,7 @@ public class Driver {
         int x = (int) (40.0 +  Math.random() * 60.0);
         System.out.println(x);
         
+        
         int hari = karyawan.mengajukanCuti();
         System.out.println(hari);
         
