@@ -54,5 +54,6 @@ public class CommonMistake {
         //*5*
         int j = Integer.MAX_VALUE + 10;
         System.out.println(j);
+        System.out.println(Integer.MAX_VALUE);
     }
 }
